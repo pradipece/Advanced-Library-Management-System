@@ -2,7 +2,7 @@
 
 Overview: Enhance the existing Library Management Project by implementing a Lend Book feature that allows users to borrow books and updates the system accordingly.
 
-![image](https://github.com/user-attachments/assets/0a59ba99-4f5d-438b-acff-32135c3e75d6)
+![image](https://github.com/user-attachments/assets/af878416-4f43-48e9-bdfa-04cc4c4e5139)
 
 
 Requirements: 
