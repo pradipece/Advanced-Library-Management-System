@@ -2,21 +2,7 @@
 
 Overview: Enhance the existing Library Management Project by implementing a Lend Book feature that allows users to borrow books and updates the system accordingly.
 
-Lend Book Process in Library Management System
-Start Lend Book Process
-Is book available?
-No
-Yes
-Collect Borrower Information
-Display Unavailable Message
-Update Book Quantity
-Record Loan Information
-Is book returned?
-No
-Yes
-Remove Loan Information
-Await Return
-Restore Book Quantity![image](https://github.com/user-attachments/assets/0a59ba99-4f5d-438b-acff-32135c3e75d6)
+![image](https://github.com/user-attachments/assets/0a59ba99-4f5d-438b-acff-32135c3e75d6)
 
 
 Requirements: 
